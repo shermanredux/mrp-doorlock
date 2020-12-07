@@ -1,4 +1,4 @@
-# Its kinda bugged but work off of what I started --
+# This was uploaded solely for educational purposes. Use this as a foundation/guide to create your own unique stuff.
 # Discord - Sherm#8267
 
 || Configured with:
